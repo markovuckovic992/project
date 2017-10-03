@@ -1,0 +1,13 @@
+*.pyc
+*.tmp
+*.txt
+*.csv
+*.xls
+*.xlsx
+project/settings.py
+static/CACHE
+static/js/node_modules
+static/js/npm-debug.log
+project/logs/django_request.log
+project/logs/error.log
+.idea
